@@ -24,11 +24,11 @@ Issues may be raised to the Committers on the "#goverance-committers-ama" channe
 
 The Committers of the project will elect 5 of their members to serve as a Technical Steering Committee (TSC) for the project.  The TSC will be responsible for all technical oversight of the project.
 
-As of March 11, 2021, the project TSC members are:
-- Hunter Gatewood (hcgatewood)
-- Marie Bremner (@themarwhal)
-- Raphael Defosseux (@rdefosse)
-- Scott Moeller (@electronjoe)
-- Pravin Shelar (@pshelar)
+As of April 01, 2024, the project TSC members are:
+- Jordan Vrtanoski (@Jordan Vrtanoski)
+- James Blakley (@Jim Blakley)
+- Yogesh Pandey (@Yogesh Pandey)
+- Lucas Gonze (@Lucas Gonze)
+- Som Sikdar (@Som Sikdar)
 
 Issues may be raised to the TSC on the "#goverance-tsc-ama" channel on the Magma Slack
